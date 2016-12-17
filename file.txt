@@ -1,4 +1,0 @@
-test file
-add row
-another row
-and again
